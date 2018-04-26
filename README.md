@@ -1,2 +1,6 @@
 # hello-world
 My first repository
+
+
+T3chE here, thought of the day...
+I wonder if my mirror dimention self is thinking what I'm thinking right now?...
